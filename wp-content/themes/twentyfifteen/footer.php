@@ -14,6 +14,7 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
+            <h6>Anand</h6>
 			<?php
 				/**
 				 * Fires before the Twenty Fifteen footer text for footer customization.
